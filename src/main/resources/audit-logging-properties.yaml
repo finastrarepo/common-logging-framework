@@ -1,0 +1,9 @@
+auditDatabase:
+  host: ""
+  port: ""
+  database: "some table"
+#  must be added as secure properties
+  user: "![]"
+  password: "![]"
+security:
+  key: ""
